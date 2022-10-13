@@ -1,8 +1,5 @@
 <style>
-a {  color :blue ;  }
+a {  color :blue ; }
 a:hover { color :green;}
-body,main{display: flex;}
-main{flex：auto;}
-aside{flex：1;}
-article{flex:1000;}
+h1,h2,h3,p{text-align: left;}
 </style>
